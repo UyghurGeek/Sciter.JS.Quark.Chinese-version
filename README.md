@@ -6,7 +6,7 @@ Visit [https://quark.sciter.com/](https://quark.sciter.com/) for more info.
 
 `Quark` can be found in `{sciter sdk}/bin/{platform}`
 
-***
+===
 # 关于Sciter.Quark.中文版
 
 简而言之：Quark 是紧凑型多平台桌面 GUI 应用程序的编译器（也称为汇编器、打包器）。
